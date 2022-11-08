@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Utils" GeneratedClassName="Utils">
+  <Profiles />
+  <Settings>
+    <Setting Name="RUN_LOCATION" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">grid</Value>
+    </Setting>
+    <Setting Name="WRITE_TO_SQL" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DBHOST_GRID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">crywolf-preprod.ps.lcl</Value>
+    </Setting>
+    <Setting Name="DBNAME_GRID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cw-qa-tx-da</Value>
+    </Setting>
+    <Setting Name="APP_VERSION" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">trunk</Value>
+    </Setting>
+    <Setting Name="URL_QA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://crywolf-preprod.ps.lcl:8000/TX-Dallas</Value>
+    </Setting>
+    <Setting Name="WINAPPDRIVER_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files (x86)\\Windows Application Driver\\WinAppDriver.exe</Value>
+    </Setting>
+    <Setting Name="DBHOST_LOCAL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">crywolf-preprod.ps.lcl</Value>
+    </Setting>
+    <Setting Name="DBNAME_LOCAL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cw-qa-tx-da</Value>
+    </Setting>
+    <Setting Name="URL_AZURE_QA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://crywolf-citizenportal.azurewebsites.net</Value>
+    </Setting>
+    <Setting Name="DBHOST_AZURE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">crywolf-sql</Value>
+    </Setting>
+    <Setting Name="DBNAME_AZURE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cw-qa-nc-hp-191</Value>
+    </Setting>
+    <Setting Name="BUILD_CONFIG" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">QA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

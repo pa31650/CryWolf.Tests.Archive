@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{042143DA-DB07-419E-BF85-B7F6C6DB9601}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{82C1AAC7-9D0E-4CB2-A82E-A3DB26C22B77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desktop", "Desktop\Desktop.csproj", "{6E3AE965-351B-4F57-821F-BCA8F78ACA1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{A161B39F-2C83-40C4-9562-459B8185926E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration", "Integration\Integration.csproj", "{3E135297-4D7F-4556-8310-554BECF372F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042143DA-DB07-419E-BF85-B7F6C6DB9601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042143DA-DB07-419E-BF85-B7F6C6DB9601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042143DA-DB07-419E-BF85-B7F6C6DB9601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042143DA-DB07-419E-BF85-B7F6C6DB9601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C1AAC7-9D0E-4CB2-A82E-A3DB26C22B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C1AAC7-9D0E-4CB2-A82E-A3DB26C22B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C1AAC7-9D0E-4CB2-A82E-A3DB26C22B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C1AAC7-9D0E-4CB2-A82E-A3DB26C22B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3AE965-351B-4F57-821F-BCA8F78ACA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3AE965-351B-4F57-821F-BCA8F78ACA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3AE965-351B-4F57-821F-BCA8F78ACA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3AE965-351B-4F57-821F-BCA8F78ACA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A161B39F-2C83-40C4-9562-459B8185926E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A161B39F-2C83-40C4-9562-459B8185926E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A161B39F-2C83-40C4-9562-459B8185926E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A161B39F-2C83-40C4-9562-459B8185926E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E135297-4D7F-4556-8310-554BECF372F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E135297-4D7F-4556-8310-554BECF372F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E135297-4D7F-4556-8310-554BECF372F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E135297-4D7F-4556-8310-554BECF372F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B08CAF7-E339-4A7A-9FCA-1E7D76BE3E57}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://superion.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = API\\API.csproj
+		SccProjectName1 = API
+		SccLocalPath1 = API
+		SccProjectUniqueName2 = Desktop\\Desktop.csproj
+		SccProjectName2 = Desktop
+		SccLocalPath2 = Desktop
+		SccProjectUniqueName3 = Utils\\Utils.csproj
+		SccProjectName3 = Utils
+		SccLocalPath3 = Utils
+		SccProjectUniqueName4 = Web\\Web.csproj
+		SccProjectName4 = Web
+		SccLocalPath4 = Web
+		SccProjectUniqueName5 = Integration\\Integration.csproj
+		SccProjectName5 = Integration
+		SccLocalPath5 = Integration
+	EndGlobalSection
+EndGlobal
